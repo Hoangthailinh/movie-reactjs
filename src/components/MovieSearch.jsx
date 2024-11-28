@@ -84,7 +84,7 @@ const MovieSearch = ({ title, data }) => {
           },
           content: {
             width: "80%", // Mặc định width cho màn hình nhỏ
-            maxWidth: "60px", // Giới hạn kích thước tối đa cho modal
+            maxWidth: "640px", // Giới hạn kích thước tối đa cho modal
             height: "auto",
             maxHeight: "45%", // Giới hạn chiều cao modal
             margin: "auto",
